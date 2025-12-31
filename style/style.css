@@ -1,0 +1,26 @@
+/* Modal orqasidagi fon */
+.modal-backdrop.show {
+	background-color: red;
+}
+
+.banner__section {
+	width: 100%;
+	text-align: center;
+}
+
+.banner__section__image {
+	object-fit: cover;
+}
+
+.banner__section__title {
+	margin: 20px 0;
+}
+
+.form__section {
+	max-width: 500px;
+	margin: auto;
+}
+
+#form__card__deadline input {
+	width: 50px;
+}
